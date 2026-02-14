@@ -1,5 +1,10 @@
 # Support Vector Machine (SVM) - Maximum Margin Hyperplane
 
+<p align="center">
+  <img src="8SVM_HyperPlane.png" width="95%" />
+</p>
+
+
 ## Introduction
 
 Support Vector Machine (SVM) is a supervised machine learning algorithm used for classification and regression tasks.
