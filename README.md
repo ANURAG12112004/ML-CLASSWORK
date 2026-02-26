@@ -64,13 +64,13 @@ This repository is ideal for:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/anuragtiwari-codes/ML-Classwork.git
+git clone https://github.com/anuragtiwari-stacks/ML-CLASSWORK.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
 
 ```bash
-cd ML-Classwork
+cd ML-CLASSWORK
 ```
 
 ### 3️⃣ Run Any Script
